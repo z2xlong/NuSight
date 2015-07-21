@@ -1,0 +1,23 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="d0da8c10-af82-4bdd-ad08-2b28ac0457cd" Version="1.0" Language="en-US" Publisher="Ctrip" />
+    <DisplayName>Ctrip NuSight Tool</DisplayName>
+    <Description xml:space="preserve">Ctrip Nuget PowerTool.Ctrip Nuget Po</Description>
+  </Metadata>
+  <Installation InstalledByMsi="false">
+    <InstallationTarget Id="Microsoft.VisualStudio.Pro" Version="[12.0]" />
+    <InstallationTarget Version="[12.0,13.0)" Id="Microsoft.VisualStudio.Ultimate" />
+    <InstallationTarget Version="[12.0,13.0)" Id="Microsoft.VisualStudio.Premium" />
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+    <Dependency Id="Microsoft.VisualStudio.MPF.12.0" DisplayName="Visual Studio MPF 12.0" Version="[12.0]" />
+  </Dependencies>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="Ctrip.NuSight.Tool.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="corapi.dll" AssemblyName="corapi, Version=0.0.0.0, Culture=neutral, PublicKeyToken=78cbd7685ae2a33d" />
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="raw.dll" AssemblyName="raw, Version=0.0.0.0, Culture=neutral, PublicKeyToken=78cbd7685ae2a33d" />
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="NativeDebugWrappers.dll" AssemblyName="NativeDebugWrappers, Version=0.0.0.0, Culture=neutral, PublicKeyToken=78cbd7685ae2a33d" />
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="SymbolBinder.dll" AssemblyName="SymbolBinder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=78cbd7685ae2a33d" />
+  </Assets>
+</PackageManifest>

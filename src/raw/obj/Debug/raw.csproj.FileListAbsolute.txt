@@ -1,0 +1,86 @@
+D:\sample\src\debugger\raw\bin\Debug\raw.dll
+D:\sample\src\debugger\raw\bin\Debug\raw.pdb
+D:\sample\src\debugger\raw\obj\Debug\ResolveAssemblyReference.cache
+D:\sample\src\debugger\raw\obj\Debug\raw.dll
+D:\sample\src\debugger\raw\obj\Debug\raw.pdb
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\raw.dll
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\raw.pdb
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\raw.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\raw.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\raw\bin\Debug\NativeDebugWrappers.xml
+D:\UpdatedSample2\src\debugger\raw\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\raw\obj\Debug\raw.dll
+D:\UpdatedSample2\src\debugger\raw\obj\Debug\raw.pdb
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\raw.dll
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\raw.pdb
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\raw.dll.CodeAnalysisLog.xml
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\raw.dll.lastcodeanalysissucceeded
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\raw\obj\Debug\raw.csprojResolveAssemblyReference.cache
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\raw\obj\Debug\raw.dll
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\raw\obj\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\obj\Debug\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\obj\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\obj\Debug\raw.pdb
+Y:\Career\Ctrip 2014\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\bin\Debug\raw.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\bin\Debug\raw.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Debug\raw.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Debug\raw.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\raw.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\raw.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Debug\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\raw.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\raw.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Debug\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\bin\Debug\raw.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\bin\Debug\raw.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\obj\Debug\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\obj\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\raw\obj\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\NuSight\raw\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\NuSight\raw\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\NuSight\raw\bin\Debug\raw.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\NuSight\raw\bin\Debug\raw.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\NuSight\raw\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\NuSight\raw\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\NuSight\raw\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\NuSight\raw\obj\Debug\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\NuSight\raw\obj\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\NuSight\raw\obj\Debug\raw.pdb
+D:\My Work\Project\NuSight\raw\bin\Debug\raw.dll
+D:\My Work\Project\NuSight\raw\bin\Debug\raw.pdb
+D:\My Work\Project\NuSight\raw\bin\Debug\raw.dll.CodeAnalysisLog.xml
+D:\My Work\Project\NuSight\raw\bin\Debug\raw.dll.lastcodeanalysissucceeded
+D:\My Work\Project\NuSight\raw\bin\Debug\NativeDebugWrappers.dll
+D:\My Work\Project\NuSight\raw\bin\Debug\NativeDebugWrappers.pdb
+D:\My Work\Project\NuSight\raw\bin\Debug\NativeDebugWrappers.xml
+D:\My Work\Project\NuSight\raw\obj\Debug\raw.csprojResolveAssemblyReference.cache
+D:\My Work\Project\NuSight\raw\obj\Debug\raw.dll
+D:\My Work\Project\NuSight\raw\obj\Debug\raw.pdb

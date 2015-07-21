@@ -1,0 +1,25 @@
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Release\ConsoleTest.exe
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Release\ConsoleTest.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Release\PackageLocalizer.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Release\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Release\PackageLocalizer.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\obj\Release\ConsoleTest.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\obj\Release\ConsoleTest.exe
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\obj\Release\ConsoleTest.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Release\ConsoleTest.exe
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Release\ConsoleTest.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Release\ConsoleTest.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Release\ConsoleTest.exe
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Release\ConsoleTest.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Release\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Release\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Release\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Release\ConsoleTest.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Release\ConsoleTest.exe
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Release\ConsoleTest.pdb

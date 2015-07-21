@@ -1,0 +1,39 @@
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Release\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Release\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Release\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Release\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Release\NativeDebugWrappers.pdb
+D:\UpdatedSample2\bin\Release\NativeDebugWrappers.dll
+D:\UpdatedSample2\bin\Release\NativeDebugWrappers.pdb
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\NativeDebugWrappers.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\NativeDebugWrappers.pdb
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Release\ResolveAssemblyReference.cache
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Release\NativeDebugWrappers.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Release\NativeDebugWrappers.pdb
+Y:\Projects\Practice\Example\MDbg Sample\bin\Release\NativeDebugWrappers.dll
+Y:\Projects\Practice\Example\MDbg Sample\bin\Release\NativeDebugWrappers.pdb
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\NativeDebugWrappers\obj\Release\NativeDebugWrappers.dll
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\NativeDebugWrappers\obj\Release\NativeDebugWrappers.pdb
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\NativeDebugWrappers\obj\Release\NativeDebugWrappers.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\obj\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\obj\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Release\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Release\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\obj\Release\NativeDebugWrappers.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\obj\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\obj\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\obj\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\obj\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\NativeDebugWrappers\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\NativeDebugWrappers\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\NativeDebugWrappers\obj\Release\NativeDebugWrappers.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\NativeDebugWrappers\obj\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\NativeDebugWrappers\obj\Release\NativeDebugWrappers.pdb

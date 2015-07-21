@@ -1,0 +1,40 @@
+D:\UpdatedSample2\src\debugger\corapi\bin\Release\corapi.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Release\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Release\raw.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Release\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\corapi\obj\Release\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\corapi\obj\Release\corapi.dll
+D:\UpdatedSample2\bin\Release\corapi.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\corapi.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\corapi\obj\Release\ResolveAssemblyReference.cache
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\corapi\obj\Release\corapi.dll
+Y:\Projects\Practice\Example\MDbg Sample\bin\Release\corapi.dll
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\corapi\obj\Release\corapi.csprojResolveAssemblyReference.cache
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\corapi\obj\Release\corapi.dll
+Y:\Career\Ctrip 2014\bin\Release\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\obj\Release\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\obj\Release\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Release\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\corapi.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\corapi.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Release\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Release\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Release\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Release\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\corapi\bin\Release\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\corapi\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\corapi\bin\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\corapi\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\corapi\obj\Release\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\corapi\obj\Release\corapi.dll

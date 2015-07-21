@@ -1,0 +1,13 @@
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\Ctrip.PowerTool.Nuget.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\corapi.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\Microsoft.Web.XmlTransform.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\NativeDebugWrappers.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\NuGet.Core.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\NuGet.VisualStudio.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\raw.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\Ctrip.PowerTool.Nuget.pkgdef
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\extension.vsixmanifest
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\Ctrip.PowerTool.Nuget.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\SymbolBinder.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\NativeDebugWrappers.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\SymbolBinder.pdb

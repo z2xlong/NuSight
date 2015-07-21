@@ -1,0 +1,93 @@
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.pkgdef
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.vsix
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\extension.vsixmanifest
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\Microsoft.Web.XmlTransform.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.Core.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.VisualStudio.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.VisualStudio.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csproj.ResolveComReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\VSPackage.resources
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.Resources.resources
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csproj.GenerateResource.Cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\NuSightTool.cto
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\VSCT.read.1.tlog
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\VSCT.write.1.tlog
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\CtoResourceMerger.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\VSPackage.resources.original
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.pkgdef
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.latest.pkgdef
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\Ctrip.NuSight.Tool\obj\Debug\extension.vsixmanifest
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.dll
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.pdb
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.pkgdef
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.vsix
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\extension.vsixmanifest
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Microsoft.Web.XmlTransform.dll
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.Core.dll
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.VisualStudio.dll
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.VisualStudio.xml
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csproj.ResolveComReference.cache
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\VSPackage.resources
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.Resources.resources
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csproj.GenerateResource.Cache
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\NuSightTool.cto
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\VSCT.read.1.tlog
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\VSCT.write.1.tlog
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\CtoResourceMerger.cache
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\VSPackage.resources.original
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.dll
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.pdb
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.pkgdef
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.latest.pkgdef
+Y:\Career\Ctrip2014\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\extension.vsixmanifest
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.dll
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.pdb
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.pkgdef
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Ctrip.NuSight.Tool.vsix
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\extension.vsixmanifest
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\corapi.dll
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.dll
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.Core.dll
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.VisualStudio.dll
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\raw.dll
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\corapi.pdb
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.pdb
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NativeDebugWrappers.xml
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\raw.pdb
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\bin\Debug\NuGet.VisualStudio.xml
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csprojResolveAssemblyReference.cache
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csproj.ResolveComReference.cache
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\VSPackage.resources
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.Resources.resources
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.csproj.GenerateResource.Cache
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\NuSightTool.cto
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\VSCT.read.1.tlog
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\VSCT.write.1.tlog
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\CtoResourceMerger.cache
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\VSPackage.resources.original
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.dll
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.pdb
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.pkgdef
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\Ctrip.NuSight.Tool.latest.pkgdef
+D:\My Work\Project\NuSight\Ctrip.NuSight.Tool\obj\Debug\extension.vsixmanifest

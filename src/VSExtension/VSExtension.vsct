@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <Extern href="stdidcmd.h"/>
+  <Extern href="vsshlids.h"/>
+    <Commands package="guidNuSightPkg">
+        <Menus>
+            <Menu guid="guidContextMenuSet" id="NsContextMenu" type="Context">
+                <Strings>
+                    <ButtonText>Ctrip NuSight Tool</ButtonText>
+                </Strings>
+            </Menu>
+        </Menus>
+        <Groups>
+            <Group guid="guidContextMenuSet" id="grpContextMenuItems">
+                <Parent guid="guidContextMenuSet" id="NsContextMenu"/>
+            </Group>
+        </Groups>
+        <Buttons>
+            <Button guid="guidContextMenuSet" id="cmdBindSymbol" priority="1" type="Button">
+                <Parent guid="guidContextMenuSet" id="grpContextMenuItems" />
+                <!--<Icon guid="guidImages" id="iconcmdBindSymbol" />-->
+                <Strings>
+                    <ButtonText>Bind Symbols</ButtonText>
+                </Strings>
+            </Button>
+            <Button guid="guidContextMenuSet" id="cmdVisualize">
+                <Parent guid="guidContextMenuSet" id="grpContextMenuItems" />
+                <!--<Icon guid="guidImages" id="iconcmdVisualize" />-->
+                <Strings>
+                    <ButtonText>Visualize Packages</ButtonText>
+                </Strings>
+            </Button>
+        </Buttons>
+        <Bitmaps>
+            <Bitmap guid="guidImages" href="Resources\Images.png" usedList="iconcmdBindSymbol,iconcmdVisualize"/>
+        </Bitmaps>
+    </Commands>
+    <CommandPlacements>
+        <CommandPlacement guid="guidContextMenuSet" id="NsContextMenu" priority="0x1000">
+            <Parent guid="guidSHLMainMenu" id="IDG_VS_CTXT_SOLUTION_BUILD" />
+        </CommandPlacement>
+    </CommandPlacements>
+    <Symbols>
+        <GuidSymbol name="guidNuSightPkg" value="{d0da8c10-af82-4bdd-ad08-2b28ac0457cd}" />
+        <GuidSymbol name="guidContextMenuSet" value="{0eee2122-486c-4dcc-85b2-8f1a6688af3f}">
+            <IDSymbol name="NsContextMenu" value="0x1000"/>
+            <IDSymbol name="grpContextMenuItems" value="0x1100"/>
+            <IDSymbol name="cmdBindSymbol" value="0x102"/>
+            <IDSymbol name="cmdVisualize" value="0x104"/>
+        </GuidSymbol>
+        <GuidSymbol name="guidImages" value="{71333b5c-75ae-42e8-8a53-87341794a7ae}" >
+            <IDSymbol name="iconcmdBindSymbol" value="1" />
+            <IDSymbol name="iconcmdVisualize" value="2" />
+        </GuidSymbol>
+    </Symbols>
+</CommandTable>

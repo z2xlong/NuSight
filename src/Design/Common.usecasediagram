@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseModelRoot xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" xmlns:dm9="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="893d2890-fb36-4a88-a8a7-fa4c56831e46" name="Common" linkedPackageId="d6b2eb80-eebb-4056-b8b8-9011d760a53a" xmlns="http://schemas.microsoft.com/dsltools/UseCaseModel">
+  <packagedElements>
+    <useCaseModelRootHasTypes>
+      <actor Id="a1e19138-1e0a-49f1-9356-20eebfbd98c4" name="DEV" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="56030be7-7c5e-421f-9df2-e9cae057b2a3" />
+        <targetEnds>
+          <association Id="1bd1cd7e-b412-4b94-88fc-29532a21d37a" isDerived="false" sourceEndRoleName="DEV" targetEndRoleName="Install Symble Relocalizer Extension" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="90e8ce78-9105-4468-8dc4-bda3418a85ed" LastKnownName="Install Symble Relocalizer Extension" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="10f363d9-d5a4-42ce-8517-4659ad1da575" name="DEV" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="3ebf82cd-79d5-4e5f-a39f-73949afad1e0" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="1fa06105-e9a5-45fb-91b3-f96cd7da1747" name="Install Symble Relocalizer Extension" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="f3461a28-ad39-494d-8d4e-e2ae3657e42f" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="e1455102-900b-4346-a1f3-773738d388ed" />
+          </association>
+          <association Id="34138c1a-587a-49ec-8239-efb971c0824b" isDerived="false" sourceEndRoleName="DEV" targetEndRoleName="Consume Symbol Package" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="7b357d1a-e6d6-4be8-95c3-db913d3238ac" LastKnownName="Consume Symbol Package" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="94551876-8faf-4a32-995d-d3adf53b1c34" name="DEV" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="306cfdc2-85e6-4e2d-aa4c-a1ff7aa6ccdd" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="85388763-df04-4078-ae15-4d6b70605033" name="Consume Symbol Package" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="0dfc2e44-8fa1-440f-9a03-c7a1ad24ba07" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="3bbccf08-1d46-40a1-85cc-033a5861dc35" />
+          </association>
+          <association Id="7117161f-94e5-40ac-8afd-093d963a4d54" isDerived="false" sourceEndRoleName="DEV" targetEndRoleName="Migrate Solution folder" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="702eb099-2e45-4f7a-8ff6-215d5a25d752" LastKnownName="Relocalize Solution's all packages" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="140d56a8-10cb-4713-ad70-637ea0fd80ca" name="DEV" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="5c0fc6bd-35cf-4909-ad05-4c22e8fc7071" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="bc87693b-d0e2-4b7d-92ac-68f49be8c321" name="Migrate Solution folder" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="8101cabb-3e42-4252-8d8f-e4b0e0537524" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="0929a32d-5eeb-43aa-ba82-9b9b444b98ac" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="90e8ce78-9105-4468-8dc4-bda3418a85ed" name="Install Symble Relocalizer Extension" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="b4c74451-8724-41a6-859f-1d83de53fbbe" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="7b357d1a-e6d6-4be8-95c3-db913d3238ac" name="Consume Symbol Package" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="49d8579c-a9b3-48e5-b966-722d8cd9c6e7" />
+        <additions>
+          <include Id="395eea61-ee49-4dc2-a6b8-b19691e9cf6b">
+            <useCaseMoniker Id="40e321ba-ac35-4803-969a-41abd1d79d25" LastKnownName="Localize Symbol Package" />
+            <elementDefinition Id="585fefa5-9bd9-4a0e-972c-67d344a4d6a5" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="702eb099-2e45-4f7a-8ff6-215d5a25d752" name="Relocalize Solution's all packages" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="5fa6f037-5b3c-44f0-8588-b3c4a78cda55" />
+        <additions>
+          <include Id="61f32999-2896-4d71-9ac7-25e3afad51b6">
+            <useCaseMoniker Id="40e321ba-ac35-4803-969a-41abd1d79d25" LastKnownName="Localize Symbol Package" />
+            <elementDefinition Id="fcbcaa1d-c8a7-463c-b998-bd1ea83f02b5" />
+          </include>
+        </additions>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="40e321ba-ac35-4803-969a-41abd1d79d25" name="Localize Symbol Package" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="2089c130-e5ce-4ede-9d16-571d8cc29fec" />
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <useCase Id="90b73329-b584-45ec-adb8-164c3a93fde4" name="Publish normal Symbol Package" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="df187c45-6a18-4c77-b288-ea9616039a71" />
+        <extendedCases>
+          <extend Id="9075d35e-c941-4a96-876b-ada95f3ec57d">
+            <useCaseMoniker Id="7b357d1a-e6d6-4be8-95c3-db913d3238ac" LastKnownName="Consume Symbol Package" />
+            <elementDefinition Id="68b37c0f-bff3-478e-9d13-e33b9869aaef" />
+          </extend>
+        </extendedCases>
+      </useCase>
+    </useCaseModelRootHasTypes>
+    <useCaseModelRootHasTypes>
+      <actor Id="24c32823-7e40-4a23-b811-9c7ac3644582" name="Package Author" isAbstract="false" isLeaf="false">
+        <elementDefinition Id="89d28021-8c66-4714-b2f1-22a90661196d" />
+        <targetEnds>
+          <association Id="1b66c9e9-f8c6-4513-81f7-d721f7eab90c" isDerived="false" sourceEndRoleName="Package Author" targetEndRoleName="Publish normal Symbol Package" isLeaf="false" isAbstract="false">
+            <useCaseMoniker Id="90b73329-b584-45ec-adb8-164c3a93fde4" LastKnownName="Publish normal Symbol Package" />
+            <relationshipOwnedElementsInternal>
+              <associationHasOwnedEnds>
+                <memberEnd Id="b8496c86-1baf-4859-a378-ab7a118096e4" name="Package Author" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false" isNavigableOwned="false">
+                  <elementDefinition Id="83d87770-a98a-47e1-acc0-65796562958d" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+              <associationHasOwnedEnds>
+                <memberEnd Id="e87e2436-be0b-4e6f-8602-18fd7f3a9d8a" name="Publish normal Symbol Package" isLeaf="false" isStatic="false" isReadOnly="false" isDerived="false" isDerivedUnion="false" aggregation="None" isComposite="false">
+                  <elementDefinition Id="2b6b694d-3531-46b8-a83f-b709cdda376d" />
+                </memberEnd>
+              </associationHasOwnedEnds>
+            </relationshipOwnedElementsInternal>
+            <elementDefinition Id="92f3db85-d4c5-4f9e-b442-d406254a7a1a" />
+          </association>
+        </targetEnds>
+      </actor>
+    </useCaseModelRootHasTypes>
+  </packagedElements>
+  <package Id="d6b2eb80-eebb-4056-b8b8-9011d760a53a" name="Design">
+    <elementDefinition Id="b40b9e7a-285a-4003-a350-9516fcd2b089" />
+    <profileInstances>
+      <packageHasProfileInstances Id="083cde2f-3e7f-42cc-99f4-470277fc020a">
+        <profileInstance Id="577baea5-d486-46ee-a245-3d578e283479" name="StandardProfileL2">
+          <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+        </profileInstance>
+        <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+      </packageHasProfileInstances>
+      <packageHasProfileInstances Id="910e0924-3aa7-49ba-a6bf-4319ab9fec23">
+        <profileInstance Id="60e78958-4325-40b4-a7d0-f68f85502f12" name="StandardProfileL3">
+          <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+        </profileInstance>
+        <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+      </packageHasProfileInstances>
+    </profileInstances>
+  </package>
+</useCaseModelRoot>

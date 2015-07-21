@@ -1,0 +1,9 @@
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\bin\Release\PackageLocalizer.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\bin\Release\PackageLocalizer.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\bin\Release\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\bin\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\obj\Release\PackageLocalizer.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\obj\Release\PackageLocalizer.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\PackageLocalizer\obj\Release\PackageLocalizer.pdb

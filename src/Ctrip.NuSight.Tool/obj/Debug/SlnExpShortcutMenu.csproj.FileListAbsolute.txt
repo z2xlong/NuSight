@@ -1,0 +1,56 @@
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.csproj.ResolveComReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\VSPackage.resources
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\Ctrip.SlnExpShortcutMenu.Resources.resources
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.csproj.GenerateResource.Cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.cto
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\VSCT.read.1.tlog
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\VSCT.write.1.tlog
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\CtoResourceMerger.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\VSPackage.resources.original
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\SlnExpShortcutMenu.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\SlnExpShortcutMenu.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\SlnExpShortcutMenu.pkgdef
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\SlnExpShortcutMenu.vsix
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\extension.vsixmanifest
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.pkgdef
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.latest.pkgdef
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\obj\Debug\extension.vsixmanifest
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\PackageLocalizer.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\PackageLocalizer.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\SlnExpShortcutMenu\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\SlnExpShortcutMenu.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\SlnExpShortcutMenu.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\SlnExpShortcutMenu.pkgdef
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\SlnExpShortcutMenu.vsix
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\extension.vsixmanifest
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.csproj.ResolveComReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\VSPackage.resources
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\Ctrip.SlnExpShortcutMenu.Resources.resources
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.csproj.GenerateResource.Cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.cto
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\VSCT.read.1.tlog
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\VSCT.write.1.tlog
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\CtoResourceMerger.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\VSPackage.resources.original
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.pkgdef
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\SlnExpShortcutMenu.latest.pkgdef
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SlnExpShortcutMenu\obj\Debug\extension.vsixmanifest

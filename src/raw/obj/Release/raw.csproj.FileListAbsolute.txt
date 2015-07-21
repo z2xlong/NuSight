@@ -1,0 +1,35 @@
+D:\UpdatedSample2\src\debugger\raw\bin\Release\raw.dll
+D:\UpdatedSample2\src\debugger\raw\bin\Release\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\raw\bin\Release\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\raw\obj\Release\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\raw\obj\Release\raw.dll
+D:\UpdatedSample2\bin\Release\raw.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\bin\Release\raw.dll
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\raw\obj\Release\ResolveAssemblyReference.cache
+\\clrdst\share\wescline\noah\UpdatedSample2\src\debugger\raw\obj\Release\raw.dll
+Y:\Projects\Practice\Example\MDbg Sample\bin\Release\raw.dll
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\raw\obj\Release\raw.csprojResolveAssemblyReference.cache
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\raw\obj\Release\raw.dll
+Y:\Career\Ctrip 2014\bin\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\obj\Release\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\obj\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\raw\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Release\raw.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Release\raw.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Release\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Release\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\raw\obj\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\raw\bin\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\raw\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\raw\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\raw\obj\Release\raw.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\raw\obj\Release\raw.dll

@@ -1,0 +1,15 @@
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\Ctrip.NuSight.Tool.dll
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\corapi.dll
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\Microsoft.Web.XmlTransform.dll
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\NativeDebugWrappers.dll
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\NuGet.Core.dll
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\NuGet.VisualStudio.dll
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\raw.dll
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\Ctrip.NuSight.Tool.pkgdef
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\extension.vsixmanifest
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\Ctrip.NuSight.Tool.pdb
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\SymbolBinder.dll
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\corapi.pdb
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\NativeDebugWrappers.pdb
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\SymbolBinder.pdb
+d:\Users\zx_zhu@ctrip.com\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Ctrip NuSight Tool\1.0\\raw.pdb

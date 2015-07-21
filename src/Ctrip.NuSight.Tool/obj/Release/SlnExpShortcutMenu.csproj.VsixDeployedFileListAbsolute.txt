@@ -1,0 +1,22 @@
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\SlnExpShortcutMenu.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\PackageLocalizer.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\SlnExpShortcutMenu.pkgdef
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\extension.vsixmanifest
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\corapi.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\raw.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\NativeDebugWrappers.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\SlnExpShortcutMenu.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\PackageLocalizer.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\NativeDebugWrappers.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\SymbolBinder.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\Nuget Symbol Package Localizer\1.0\\SymbolBinder.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\SlnExpShortcutMenu.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\corapi.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\NativeDebugWrappers.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\raw.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\SlnExpShortcutMenu.pkgdef
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\extension.vsixmanifest
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\SlnExpShortcutMenu.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\SymbolBinder.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\NativeDebugWrappers.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\NugetSymbolBinder\1.0\\SymbolBinder.pdb

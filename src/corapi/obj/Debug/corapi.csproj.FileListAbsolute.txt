@@ -1,0 +1,96 @@
+D:\sample\src\debugger\corapi\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\corapi.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\corapi.pdb
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\raw.dll
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\NativeDebugWrappers.xml
+D:\UpdatedSample2\src\debugger\corapi\bin\Debug\raw.pdb
+D:\UpdatedSample2\src\debugger\corapi\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\corapi\obj\Debug\corapi.dll
+D:\UpdatedSample2\src\debugger\corapi\obj\Debug\corapi.pdb
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\corapi.dll
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\corapi.pdb
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\corapi\obj\Debug\corapi.csprojResolveAssemblyReference.cache
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\corapi\obj\Debug\corapi.dll
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\corapi\obj\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\obj\Debug\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\obj\Debug\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\obj\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\bin\Debug\corapi.dll
+Y:\Career\Ctrip 2014\bin\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\corapi\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Debug\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Debug\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Debug\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\corapi\obj\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\obj\Debug\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\obj\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\corapi\obj\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\NuSight\corapi\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\NuSight\corapi\obj\Debug\corapi.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\NuSight\corapi\obj\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\NuSight\corapi\obj\Debug\corapi.pdb
+D:\My Work\Project\NuSight\corapi\bin\Debug\corapi.dll
+D:\My Work\Project\NuSight\corapi\bin\Debug\corapi.pdb
+D:\My Work\Project\NuSight\corapi\bin\Debug\corapi.dll.CodeAnalysisLog.xml
+D:\My Work\Project\NuSight\corapi\bin\Debug\corapi.dll.lastcodeanalysissucceeded
+D:\My Work\Project\NuSight\corapi\bin\Debug\NativeDebugWrappers.dll
+D:\My Work\Project\NuSight\corapi\bin\Debug\raw.dll
+D:\My Work\Project\NuSight\corapi\bin\Debug\NativeDebugWrappers.pdb
+D:\My Work\Project\NuSight\corapi\bin\Debug\NativeDebugWrappers.xml
+D:\My Work\Project\NuSight\corapi\bin\Debug\raw.pdb
+D:\My Work\Project\NuSight\corapi\obj\Debug\corapi.csprojResolveAssemblyReference.cache
+D:\My Work\Project\NuSight\corapi\obj\Debug\corapi.dll
+D:\My Work\Project\NuSight\corapi\obj\Debug\corapi.pdb

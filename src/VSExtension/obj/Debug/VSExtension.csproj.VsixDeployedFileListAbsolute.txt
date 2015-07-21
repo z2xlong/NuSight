@@ -1,0 +1,7 @@
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\VSExtension\1.0\\VSExtension.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\VSExtension\1.0\\SymbolBinder.dll
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\VSExtension\1.0\\VSExtension.pkgdef
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\VSExtension\1.0\\extension.vsixmanifest
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\VSExtension\1.0\\VSExtension.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\VSExtension\1.0\\SymbolBinder.pdb
+C:\Users\zzx\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\Ctrip\VSExtension\1.0\\NuGet.VisualStudio.dll

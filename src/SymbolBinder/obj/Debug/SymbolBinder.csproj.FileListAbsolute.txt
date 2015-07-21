@@ -1,0 +1,60 @@
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\SymbolBinder.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Debug\SymbolBinder.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Debug\SymbolBinder.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Debug\SymbolBinder.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\obj\Debug\SymbolBinder.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\obj\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\SymbolBinder\obj\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\obj\Debug\SymbolBinder.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\obj\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\NuSight\SymbolBinder\obj\Debug\SymbolBinder.pdb
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\SymbolBinder.dll
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\SymbolBinder.pdb
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\corapi.dll
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\raw.dll
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.dll
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\corapi.pdb
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\raw.pdb
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.pdb
+D:\My Work\Project\NuSight\SymbolBinder\bin\Debug\NativeDebugWrappers.xml
+D:\My Work\Project\NuSight\SymbolBinder\obj\Debug\SymbolBinder.csprojResolveAssemblyReference.cache
+D:\My Work\Project\NuSight\SymbolBinder\obj\Debug\SymbolBinder.dll
+D:\My Work\Project\NuSight\SymbolBinder\obj\Debug\SymbolBinder.pdb

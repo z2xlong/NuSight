@@ -1,0 +1,84 @@
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\ConsoleTest.exe
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\PackageLocalizer.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\PackageLocalizer.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\obj\Debug\ConsoleTest.exe
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\ConsoleTest\obj\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Debug\ConsoleTest.exe
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\ConsoleTest.exe
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\SymbolBinder.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\corapi.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\raw.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Debug\ConsoleTest.exe
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\ConsoleTest.exe
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\ConsoleTest.exe
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\obj\Debug\ConsoleTest.exe
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\ConsoleTest\obj\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\ConsoleTest.exe
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\ConsoleTest.pdb
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\corapi.dll
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\raw.dll
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\corapi.pdb
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\raw.pdb
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.xml
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\obj\Debug\ConsoleTest.exe
+Y:\Career\Ctrip2014\Project\NuSight\ConsoleTest\obj\Debug\ConsoleTest.pdb
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\ConsoleTest.exe
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\ConsoleTest.pdb
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\SymbolBinder.dll
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\corapi.dll
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\raw.dll
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.dll
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\SymbolBinder.pdb
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\corapi.pdb
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\raw.pdb
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.pdb
+D:\My Work\Project\NuSight\ConsoleTest\bin\Debug\NativeDebugWrappers.xml
+D:\My Work\Project\NuSight\ConsoleTest\obj\Debug\ConsoleTest.csprojResolveAssemblyReference.cache
+D:\My Work\Project\NuSight\ConsoleTest\obj\Debug\ConsoleTest.exe
+D:\My Work\Project\NuSight\ConsoleTest\obj\Debug\ConsoleTest.pdb

@@ -1,0 +1,29 @@
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\SymbolBinder.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\SymbolBinder.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\corapi.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\raw.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Release\SymbolBinder.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Release\SymbolBinder.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Release\SymbolBinder.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\SymbolBinder.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\SymbolBinder.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Release\SymbolBinder.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Release\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\SymbolBinder\obj\Release\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\bin\Release\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\bin\Release\SymbolBinder.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\bin\Release\corapi.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\bin\Release\raw.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\bin\Release\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\bin\Release\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\obj\Release\SymbolBinder.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\obj\Release\SymbolBinder.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Package.PowerTool\SymbolBinder\obj\Release\SymbolBinder.pdb

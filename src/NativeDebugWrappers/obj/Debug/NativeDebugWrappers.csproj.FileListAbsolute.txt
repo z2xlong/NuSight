@@ -1,0 +1,64 @@
+D:\sample\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+D:\sample\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+D:\sample\src\debugger\NativeDebugWrappers\obj\Debug\ResolveAssemblyReference.cache
+D:\sample\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+D:\sample\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Debug\ResolveAssemblyReference.cache
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+D:\UpdatedSample2\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\NativeDebugWrappers.dll
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\NativeDebugWrappers.pdb
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\NativeDebugWrappers.XML
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+Y:\Projects\Practice\Example\MDbg Sample\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+Y:\Projects\Practice\Example\MDbg Sample\src\debugger\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\bin\Debug\NativeDebugWrappers.XML
+Y:\Career\Ctrip 2014\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.XML
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip 2014\Project\Ctrip.NugetSymbolLocalizer\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.XML
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.Nuget.SymbolBinder\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.XML
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\Ctrip.NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.XML
+Y:\Career\Ctrip2014\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+Y:\Career\Ctrip2014\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+Y:\Career\Ctrip2014\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+Y:\Career\Ctrip2014\Project\NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.csprojResolveAssemblyReference.cache
+Y:\Career\Ctrip2014\Project\NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+Y:\Career\Ctrip2014\Project\NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
+D:\My Work\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.XML
+D:\My Work\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll
+D:\My Work\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.pdb
+D:\My Work\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.CodeAnalysisLog.xml
+D:\My Work\Project\NuSight\NativeDebugWrappers\bin\Debug\NativeDebugWrappers.dll.lastcodeanalysissucceeded
+D:\My Work\Project\NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.csprojResolveAssemblyReference.cache
+D:\My Work\Project\NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.dll
+D:\My Work\Project\NuSight\NativeDebugWrappers\obj\Debug\NativeDebugWrappers.pdb
